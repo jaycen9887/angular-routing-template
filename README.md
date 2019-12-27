@@ -31,3 +31,5 @@ To get this up and running, open a terminal inside the project directory
 
     ng serve -o
 ```
+
+---
