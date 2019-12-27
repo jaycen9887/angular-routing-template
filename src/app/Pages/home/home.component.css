@@ -1,7 +1,16 @@
-h1 {
+.container {
+    width: 85vw;
+    height: 95vh;
+    margin: auto;
+    background-color: #777777;
     color: deepskyblue;
+
+}
+h1 {
+    text-align: center;
 }
 
 .description{
-    color: orangered;
+    font-weight: bolder;
+    text-align: center;
 }
