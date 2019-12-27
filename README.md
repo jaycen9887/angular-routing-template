@@ -9,7 +9,7 @@ Components are placed into the "Components" directory and the full pages are pla
 
 ---
 
-### --Run Instructions--
+### Run Instructions
 
 ##### Note: to run this application, you will need the following 
 
@@ -19,7 +19,7 @@ Components are placed into the "Components" directory and the full pages are pla
     [@angular/cli detailed install instructions](https://cli.angular.io/)
 
     ```cmd 
-        npm i -g @angular/cli
+        npm install -g @angular/cli
     ```
 
 To get this up and running, open a terminal inside the project directory
