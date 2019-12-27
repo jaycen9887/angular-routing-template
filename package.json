@@ -1,6 +1,7 @@
 {
   "name": "todo-frontend",
   "version": "0.0.0",
+  "author": "Milling, Jaycen <jaycen9887@gmail.com>",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
